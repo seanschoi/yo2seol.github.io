@@ -1,14 +1,96 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Recent &amp; Upcoming Talks on </title>
+    <title>Recent &amp; Upcoming Talks on Homepage of Sean Choi</title>
     <link>/talk/</link>
-    <description>Recent content in Recent &amp; Upcoming Talks on </description>
+    <description>Recent content in Recent &amp; Upcoming Talks on Homepage of Sean Choi</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
+    <lastBuildDate>Mon, 17 Jun 2019 09:30:00 -0700</lastBuildDate>
     
 	    <atom:link href="/talk/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Ph.D. Dissertation Defense</title>
+      <link>/talk/defense/</link>
+      <pubDate>Mon, 17 Jun 2019 09:30:00 -0700</pubDate>
+      
+      <guid>/talk/defense/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Programmable Data Planes and &#39;Reflex Control&#39;</title>
+      <link>/talk/reflex_platform_lab/</link>
+      <pubDate>Thu, 07 Feb 2019 14:16:09 -0700</pubDate>
+      
+      <guid>/talk/reflex_platform_lab/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>FBOSS: Building Switch Software at Scale</title>
+      <link>/talk/fboss/</link>
+      <pubDate>Thu, 23 Aug 2018 14:14:33 -0700</pubDate>
+      
+      <guid>/talk/fboss/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Riley: Pushing networking to the edge</title>
+      <link>/talk/riley/</link>
+      <pubDate>Fri, 17 Nov 2017 14:13:33 -0700</pubDate>
+      
+      <guid>/talk/riley/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>PVPP: A Programmable Vector Packet Processor</title>
+      <link>/talk/pvpp_intel/</link>
+      <pubDate>Mon, 26 Jun 2017 14:12:08 -0700</pubDate>
+      
+      <guid>/talk/pvpp_intel/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>PVPP : A Programmable Vector Packet Processor</title>
+      <link>/talk/pvpp_cisco/</link>
+      <pubDate>Thu, 18 May 2017 14:10:19 -0700</pubDate>
+      
+      <guid>/talk/pvpp_cisco/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>PISCES - A Programmable Independent Software Switch</title>
+      <link>/talk/pisces/</link>
+      <pubDate>Thu, 25 Aug 2016 14:05:49 -0700</pubDate>
+      
+      <guid>/talk/pisces/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>History of SDN and PISCES - A Programmable Independent Software Switch</title>
+      <link>/talk/history_of_sdn/</link>
+      <pubDate>Thu, 09 Jun 2016 14:01:21 -0700</pubDate>
+      
+      <guid>/talk/history_of_sdn/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>PISCES - A Programmable Independent Software Switch</title>
+      <link>/talk/nfv_day/</link>
+      <pubDate>Wed, 25 May 2016 14:07:41 -0700</pubDate>
+      
+      <guid>/talk/nfv_day/</guid>
+      <description></description>
+    </item>
     
   </channel>
 </rss>

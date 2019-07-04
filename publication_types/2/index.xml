@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>2 on Homepage of Sean Choi</title>
+    <link>/publication_types/2/</link>
+    <description>Recent content in 2 on Homepage of Sean Choi</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 01 Jan 2014 00:00:00 +0000</lastBuildDate>
+    
+	    <atom:link href="/publication_types/2/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Integrated bioprinting and imaging for scalable, networkable desktop experimentation</title>
+      <link>/publication/c-4-ra-05932-h/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/c-4-ra-05932-h/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The browsemaps: Collaborative filtering at LinkedIn</title>
+      <link>/publication/browsemap/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/browsemap/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Social Data and College Statistics</title>
+      <link>/publication/social-data/</link>
+      <pubDate>Sat, 01 Sep 2012 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/social-data/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
