@@ -2,291 +2,291 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Homepage of Sean Choi</title>
-    <link>/tags/</link>
+    <link>https://seanschoi.com/tags/</link>
     <description>Recent content in Tags on Homepage of Sean Choi</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 04 Jul 2019 13:39:54 -0700</lastBuildDate>
     
-	    <atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
+	    <atom:link href="https://seanschoi.com/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Programmable Network</title>
-      <link>/tags/programmable-network/</link>
+      <link>https://seanschoi.com/tags/programmable-network/</link>
       <pubDate>Thu, 04 Jul 2019 13:39:54 -0700</pubDate>
       
-      <guid>/tags/programmable-network/</guid>
+      <guid>https://seanschoi.com/tags/programmable-network/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Cloud Services</title>
-      <link>/tags/cloud-services/</link>
+      <link>https://seanschoi.com/tags/cloud-services/</link>
       <pubDate>Thu, 04 Jul 2019 13:37:57 -0700</pubDate>
       
-      <guid>/tags/cloud-services/</guid>
+      <guid>https://seanschoi.com/tags/cloud-services/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Network Software</title>
-      <link>/tags/network-software/</link>
+      <link>https://seanschoi.com/tags/network-software/</link>
       <pubDate>Thu, 04 Jul 2019 13:35:02 -0700</pubDate>
       
-      <guid>/tags/network-software/</guid>
+      <guid>https://seanschoi.com/tags/network-software/</guid>
       <description></description>
     </item>
     
     <item>
       <title>FBOSS</title>
-      <link>/tags/fboss/</link>
+      <link>https://seanschoi.com/tags/fboss/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
       
-      <guid>/tags/fboss/</guid>
+      <guid>https://seanschoi.com/tags/fboss/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Facebook</title>
-      <link>/tags/facebook/</link>
+      <link>https://seanschoi.com/tags/facebook/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
       
-      <guid>/tags/facebook/</guid>
+      <guid>https://seanschoi.com/tags/facebook/</guid>
       <description></description>
     </item>
     
     <item>
       <title>data center networks</title>
-      <link>/tags/data-center-networks/</link>
+      <link>https://seanschoi.com/tags/data-center-networks/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
       
-      <guid>/tags/data-center-networks/</guid>
+      <guid>https://seanschoi.com/tags/data-center-networks/</guid>
       <description></description>
     </item>
     
     <item>
       <title>network management</title>
-      <link>/tags/network-management/</link>
+      <link>https://seanschoi.com/tags/network-management/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
       
-      <guid>/tags/network-management/</guid>
+      <guid>https://seanschoi.com/tags/network-management/</guid>
       <description></description>
     </item>
     
     <item>
       <title>network monitoring</title>
-      <link>/tags/network-monitoring/</link>
+      <link>https://seanschoi.com/tags/network-monitoring/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
       
-      <guid>/tags/network-monitoring/</guid>
+      <guid>https://seanschoi.com/tags/network-monitoring/</guid>
       <description></description>
     </item>
     
     <item>
       <title>switch software design</title>
-      <link>/tags/switch-software-design/</link>
+      <link>https://seanschoi.com/tags/switch-software-design/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
       
-      <guid>/tags/switch-software-design/</guid>
+      <guid>https://seanschoi.com/tags/switch-software-design/</guid>
       <description></description>
     </item>
     
     <item>
       <title>FD.io</title>
-      <link>/tags/fd.io/</link>
+      <link>https://seanschoi.com/tags/fd.io/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
       
-      <guid>/tags/fd.io/</guid>
+      <guid>https://seanschoi.com/tags/fd.io/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Key-Value Stores</title>
-      <link>/tags/key-value-stores/</link>
+      <link>https://seanschoi.com/tags/key-value-stores/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
       
-      <guid>/tags/key-value-stores/</guid>
+      <guid>https://seanschoi.com/tags/key-value-stores/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Load Balancing</title>
-      <link>/tags/load-balancing/</link>
+      <link>https://seanschoi.com/tags/load-balancing/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
       
-      <guid>/tags/load-balancing/</guid>
+      <guid>https://seanschoi.com/tags/load-balancing/</guid>
       <description></description>
     </item>
     
     <item>
       <title>P4</title>
-      <link>/tags/p4/</link>
+      <link>https://seanschoi.com/tags/p4/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
       
-      <guid>/tags/p4/</guid>
+      <guid>https://seanschoi.com/tags/p4/</guid>
       <description></description>
     </item>
     
     <item>
       <title>PVPP</title>
-      <link>/tags/pvpp/</link>
+      <link>https://seanschoi.com/tags/pvpp/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
       
-      <guid>/tags/pvpp/</guid>
+      <guid>https://seanschoi.com/tags/pvpp/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Programmable Data Plane</title>
-      <link>/tags/programmable-data-plane/</link>
+      <link>https://seanschoi.com/tags/programmable-data-plane/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
       
-      <guid>/tags/programmable-data-plane/</guid>
+      <guid>https://seanschoi.com/tags/programmable-data-plane/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Programmable Switches</title>
-      <link>/tags/programmable-switches/</link>
+      <link>https://seanschoi.com/tags/programmable-switches/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
       
-      <guid>/tags/programmable-switches/</guid>
+      <guid>https://seanschoi.com/tags/programmable-switches/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Software Switch</title>
-      <link>/tags/software-switch/</link>
+      <link>https://seanschoi.com/tags/software-switch/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
       
-      <guid>/tags/software-switch/</guid>
+      <guid>https://seanschoi.com/tags/software-switch/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Vector Packet Processing (VPP)</title>
-      <link>/tags/vector-packet-processing-vpp/</link>
+      <link>https://seanschoi.com/tags/vector-packet-processing-vpp/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
       
-      <guid>/tags/vector-packet-processing-vpp/</guid>
+      <guid>https://seanschoi.com/tags/vector-packet-processing-vpp/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Compiler Optimizations</title>
-      <link>/tags/compiler-optimizations/</link>
+      <link>https://seanschoi.com/tags/compiler-optimizations/</link>
       <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
       
-      <guid>/tags/compiler-optimizations/</guid>
+      <guid>https://seanschoi.com/tags/compiler-optimizations/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Domain-Specific Languages (DSL)</title>
-      <link>/tags/domain-specific-languages-dsl/</link>
+      <link>https://seanschoi.com/tags/domain-specific-languages-dsl/</link>
       <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
       
-      <guid>/tags/domain-specific-languages-dsl/</guid>
+      <guid>https://seanschoi.com/tags/domain-specific-languages-dsl/</guid>
       <description></description>
     </item>
     
     <item>
       <title>OVS</title>
-      <link>/tags/ovs/</link>
+      <link>https://seanschoi.com/tags/ovs/</link>
       <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
       
-      <guid>/tags/ovs/</guid>
+      <guid>https://seanschoi.com/tags/ovs/</guid>
       <description></description>
     </item>
     
     <item>
       <title>PISCES</title>
-      <link>/tags/pisces/</link>
+      <link>https://seanschoi.com/tags/pisces/</link>
       <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
       
-      <guid>/tags/pisces/</guid>
+      <guid>https://seanschoi.com/tags/pisces/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Programmable Data Planes</title>
-      <link>/tags/programmable-data-planes/</link>
+      <link>https://seanschoi.com/tags/programmable-data-planes/</link>
       <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
       
-      <guid>/tags/programmable-data-planes/</guid>
+      <guid>https://seanschoi.com/tags/programmable-data-planes/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Software-Defined Networks (SDN)</title>
-      <link>/tags/software-defined-networks-sdn/</link>
+      <link>https://seanschoi.com/tags/software-defined-networks-sdn/</link>
       <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
       
-      <guid>/tags/software-defined-networks-sdn/</guid>
+      <guid>https://seanschoi.com/tags/software-defined-networks-sdn/</guid>
       <description></description>
     </item>
     
     <item>
       <title>automation</title>
-      <link>/tags/automation/</link>
+      <link>https://seanschoi.com/tags/automation/</link>
       <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
       
-      <guid>/tags/automation/</guid>
+      <guid>https://seanschoi.com/tags/automation/</guid>
       <description></description>
     </item>
     
     <item>
       <title>biology</title>
-      <link>/tags/biology/</link>
+      <link>https://seanschoi.com/tags/biology/</link>
       <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
       
-      <guid>/tags/biology/</guid>
+      <guid>https://seanschoi.com/tags/biology/</guid>
       <description></description>
     </item>
     
     <item>
       <title>cloud computing</title>
-      <link>/tags/cloud-computing/</link>
+      <link>https://seanschoi.com/tags/cloud-computing/</link>
       <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
       
-      <guid>/tags/cloud-computing/</guid>
+      <guid>https://seanschoi.com/tags/cloud-computing/</guid>
       <description></description>
     </item>
     
     <item>
       <title>cloud experimentation</title>
-      <link>/tags/cloud-experimentation/</link>
+      <link>https://seanschoi.com/tags/cloud-experimentation/</link>
       <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
       
-      <guid>/tags/cloud-experimentation/</guid>
+      <guid>https://seanschoi.com/tags/cloud-experimentation/</guid>
       <description></description>
     </item>
     
     <item>
       <title>cloud lab</title>
-      <link>/tags/cloud-lab/</link>
+      <link>https://seanschoi.com/tags/cloud-lab/</link>
       <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
       
-      <guid>/tags/cloud-lab/</guid>
+      <guid>https://seanschoi.com/tags/cloud-lab/</guid>
       <description></description>
     </item>
     
     <item>
       <title>education</title>
-      <link>/tags/education/</link>
+      <link>https://seanschoi.com/tags/education/</link>
       <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
       
-      <guid>/tags/education/</guid>
+      <guid>https://seanschoi.com/tags/education/</guid>
       <description></description>
     </item>
     
     <item>
       <title>remote experimentation</title>
-      <link>/tags/remote-experimentation/</link>
+      <link>https://seanschoi.com/tags/remote-experimentation/</link>
       <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
       
-      <guid>/tags/remote-experimentation/</guid>
+      <guid>https://seanschoi.com/tags/remote-experimentation/</guid>
       <description></description>
     </item>
     

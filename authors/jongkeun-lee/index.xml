@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Jongkeun Lee on Homepage of Sean Choi</title>
-    <link>/authors/jongkeun-lee/</link>
+    <link>https://seanschoi.com/authors/jongkeun-lee/</link>
     <description>Recent content in Jongkeun Lee on Homepage of Sean Choi</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 17 Nov 2017 14:13:33 -0700</lastBuildDate>
     
-	    <atom:link href="/authors/jongkeun-lee/index.xml" rel="self" type="application/rss+xml" />
+	    <atom:link href="https://seanschoi.com/authors/jongkeun-lee/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Riley: Pushing networking to the edge</title>
-      <link>/talk/riley/</link>
+      <link>https://seanschoi.com/talk/riley/</link>
       <pubDate>Fri, 17 Nov 2017 14:13:33 -0700</pubDate>
       
-      <guid>/talk/riley/</guid>
+      <guid>https://seanschoi.com/talk/riley/</guid>
       <description></description>
     </item>
     

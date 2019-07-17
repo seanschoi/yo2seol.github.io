@@ -2,30 +2,30 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Software Switch on Homepage of Sean Choi</title>
-    <link>/tags/software-switch/</link>
+    <link>https://seanschoi.com/tags/software-switch/</link>
     <description>Recent content in Software Switch on Homepage of Sean Choi</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
     
-	    <atom:link href="/tags/software-switch/index.xml" rel="self" type="application/rss+xml" />
+	    <atom:link href="https://seanschoi.com/tags/software-switch/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>The Case for a Flexible Low-Level Backend for Software Data Planes</title>
-      <link>/publication/choi-2017-cfl-3106989-3107000/</link>
+      <link>https://seanschoi.com/publication/choi-2017-cfl-3106989-3107000/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
       
-      <guid>/publication/choi-2017-cfl-3106989-3107000/</guid>
+      <guid>https://seanschoi.com/publication/choi-2017-cfl-3106989-3107000/</guid>
       <description></description>
     </item>
     
     <item>
       <title>PISCES: A Programmable, Protocol-Independent Software Switch</title>
-      <link>/publication/shahbaz-2016-ppp-2934872-2934886/</link>
+      <link>https://seanschoi.com/publication/shahbaz-2016-ppp-2934872-2934886/</link>
       <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
       
-      <guid>/publication/shahbaz-2016-ppp-2934872-2934886/</guid>
+      <guid>https://seanschoi.com/publication/shahbaz-2016-ppp-2934872-2934886/</guid>
       <description></description>
     </item>
     

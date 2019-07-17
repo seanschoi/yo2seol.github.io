@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Cloud Services on Homepage of Sean Choi</title>
-    <link>/tags/cloud-services/</link>
+    <link>https://seanschoi.com/tags/cloud-services/</link>
     <description>Recent content in Cloud Services on Homepage of Sean Choi</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 04 Jul 2019 13:37:57 -0700</lastBuildDate>
     
-	    <atom:link href="/tags/cloud-services/index.xml" rel="self" type="application/rss+xml" />
+	    <atom:link href="https://seanschoi.com/tags/cloud-services/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>λ-NIC</title>
-      <link>/project/lambda-nic/</link>
+      <link>https://seanschoi.com/project/lambda-nic/</link>
       <pubDate>Thu, 04 Jul 2019 13:37:57 -0700</pubDate>
       
-      <guid>/project/lambda-nic/</guid>
+      <guid>https://seanschoi.com/project/lambda-nic/</guid>
       <description></description>
     </item>
     
