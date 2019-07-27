@@ -3,9 +3,119 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://seanschoi.com/</loc>
-    <lastmod>2019-07-04T13:40:48-07:00</lastmod>
+    <loc>https://seanschoi.com/categories/</loc>
+    <lastmod>2019-07-27T19:04:30-04:00</lastmod>
     <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://seanschoi.com/</loc>
+    <lastmod>2019-07-27T19:04:30-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://seanschoi.com/post/circumvention-sigcomm2018/</loc>
+    <lastmod>2019-07-27T19:04:30-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://seanschoi.com/post/</loc>
+    <lastmod>2019-07-27T19:04:30-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://seanschoi.com/categories/publcation-review/</loc>
+    <lastmod>2019-07-27T19:04:30-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://seanschoi.com/tags/publication-review/</loc>
+    <lastmod>2019-07-27T19:04:30-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://seanschoi.com/tags/</loc>
+    <lastmod>2019-07-27T19:04:30-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://seanschoi.com/post/nanolog-atc2018/</loc>
+    <lastmod>2019-07-27T19:03:40-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://seanschoi.com/categories/publication-review/</loc>
+    <lastmod>2019-07-27T19:03:40-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://seanschoi.com/post/hyperloop-sigcomm2018/</loc>
+    <lastmod>2019-07-27T19:02:49-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://seanschoi.com/post/mute-sigcomm2018/</loc>
+    <lastmod>2019-07-27T19:01:14-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://seanschoi.com/authors/</loc>
+    <lastmod>2019-07-27T18:52:40-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://seanschoi.com/authors/guide/</loc>
+    <lastmod>2019-07-27T18:52:40-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://seanschoi.com/tags/guide/</loc>
+    <lastmod>2019-07-27T18:52:40-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://seanschoi.com/post/what-is-metamask/</loc>
+    <lastmod>2019-07-27T18:52:40-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://seanschoi.com/post/raspberry-pi-guide/</loc>
+    <lastmod>2019-07-27T18:51:57-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://seanschoi.com/post/starting-cs-review/</loc>
+    <lastmod>2019-07-27T18:50:49-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://seanschoi.com/post/help-a-teenager-launch-ios/</loc>
+    <lastmod>2019-07-27T18:49:40-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://seanschoi.com/categories/teaching/</loc>
+    <lastmod>2019-07-27T18:49:40-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://seanschoi.com/tags/teaching/</loc>
+    <lastmod>2019-07-27T18:49:40-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://seanschoi.com/post/30-year-old-interview/</loc>
+    <lastmod>2019-07-27T18:47:48-04:00</lastmod>
   </url>
   
   <url>
@@ -26,12 +136,6 @@
   
   <url>
     <loc>https://seanschoi.com/tags/programmable-network/</loc>
-    <lastmod>2019-07-04T13:39:54-07:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://seanschoi.com/tags/</loc>
     <lastmod>2019-07-04T13:39:54-07:00</lastmod>
     <priority>0</priority>
   </url>
@@ -58,14 +162,13 @@
   </url>
   
   <url>
-    <loc>https://seanschoi.com/tags/network-software/</loc>
+    <loc>https://seanschoi.com/post/how-to-teach-programming-to-teenagers/</loc>
     <lastmod>2019-07-04T13:35:02-07:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://seanschoi.com/authors/</loc>
-    <lastmod>2019-06-17T09:30:00-07:00</lastmod>
+    <loc>https://seanschoi.com/tags/network-software/</loc>
+    <lastmod>2019-07-04T13:35:02-07:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -622,15 +725,6 @@
   
   <url>
     <loc>https://seanschoi.com/authors/admin/</loc>
-  </url>
-  
-  <url>
-    <loc>https://seanschoi.com/categories/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://seanschoi.com/post/</loc>
   </url>
   
 </urlset>
