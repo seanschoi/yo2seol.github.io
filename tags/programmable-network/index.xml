@@ -6,10 +6,19 @@
     <description>Recent content in Programmable Network on Homepage of Sean Choi</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 04 Jul 2019 13:39:54 -0700</lastBuildDate>
+    <lastBuildDate>Mon, 19 Aug 2019 00:00:00 +0000</lastBuildDate>
     
 	    <atom:link href="https://seanschoi.com/tags/programmable-network/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Toward Scalable Replication Systems with Predictable Tails Using Programmable Data Planes (Best Paper Award)</title>
+      <link>https://seanschoi.com/publication/choi-2019-tsr-3343180-3343181/</link>
+      <pubDate>Mon, 19 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://seanschoi.com/publication/choi-2019-tsr-3343180-3343181/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>PISCES</title>

@@ -3,13 +3,107 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://seanschoi.com/categories/</loc>
-    <lastmod>2019-07-27T19:04:30-04:00</lastmod>
+    <loc>https://seanschoi.com/publication_types/1/</loc>
+    <lastmod>2019-08-19T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://seanschoi.com/authors/</loc>
+    <lastmod>2019-08-19T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://seanschoi.com/authors/balaji-prabhakar/</loc>
+    <lastmod>2019-08-19T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://seanschoi.com/</loc>
+    <lastmod>2019-08-19T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://seanschoi.com/authors/mendel-rosenblum/</loc>
+    <lastmod>2019-08-19T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://seanschoi.com/authors/muhammad-shahbaz/</loc>
+    <lastmod>2019-08-19T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://seanschoi.com/tags/npu/</loc>
+    <lastmod>2019-08-19T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://seanschoi.com/tags/p4/</loc>
+    <lastmod>2019-08-19T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://seanschoi.com/tags/programmable-network/</loc>
+    <lastmod>2019-08-19T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://seanschoi.com/publication_types/</loc>
+    <lastmod>2019-08-19T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://seanschoi.com/publication/</loc>
+    <lastmod>2019-08-19T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://seanschoi.com/tags/replication/</loc>
+    <lastmod>2019-08-19T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://seanschoi.com/authors/sean-choi/</loc>
+    <lastmod>2019-08-19T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://seanschoi.com/authors/seo-jin-park/</loc>
+    <lastmod>2019-08-19T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://seanschoi.com/tags/smartnic/</loc>
+    <lastmod>2019-08-19T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://seanschoi.com/tags/</loc>
+    <lastmod>2019-08-19T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://seanschoi.com/publication/choi-2019-tsr-3343180-3343181/</loc>
+    <lastmod>2019-08-19T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://seanschoi.com/categories/</loc>
     <lastmod>2019-07-27T19:04:30-04:00</lastmod>
     <priority>0</priority>
   </url>
@@ -37,12 +131,6 @@
   </url>
   
   <url>
-    <loc>https://seanschoi.com/tags/</loc>
-    <lastmod>2019-07-27T19:04:30-04:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>https://seanschoi.com/post/nanolog-atc2018/</loc>
     <lastmod>2019-07-27T19:03:40-04:00</lastmod>
   </url>
@@ -61,12 +149,6 @@
   <url>
     <loc>https://seanschoi.com/post/mute-sigcomm2018/</loc>
     <lastmod>2019-07-27T19:01:14-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://seanschoi.com/authors/</loc>
-    <lastmod>2019-07-27T18:52:40-04:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -135,12 +217,6 @@
   </url>
   
   <url>
-    <loc>https://seanschoi.com/tags/programmable-network/</loc>
-    <lastmod>2019-07-04T13:39:54-07:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>https://seanschoi.com/project/pvpp/</loc>
     <lastmod>2019-07-04T13:39:21-07:00</lastmod>
   </url>
@@ -180,12 +256,6 @@
   <url>
     <loc>https://seanschoi.com/talk/</loc>
     <lastmod>2019-06-17T09:30:00-07:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://seanschoi.com/authors/sean-choi/</loc>
-    <lastmod>2019-06-17T09:30:00-07:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -241,12 +311,6 @@
   </url>
   
   <url>
-    <loc>https://seanschoi.com/publication_types/1/</loc>
-    <lastmod>2018-01-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>https://seanschoi.com/tags/fboss/</loc>
     <lastmod>2018-01-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
@@ -267,17 +331,6 @@
     <loc>https://seanschoi.com/authors/hongyi-zeng/</loc>
     <lastmod>2018-01-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://seanschoi.com/publication_types/</loc>
-    <lastmod>2018-01-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://seanschoi.com/publication/</loc>
-    <lastmod>2018-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -392,18 +445,6 @@
   
   <url>
     <loc>https://seanschoi.com/tags/load-balancing/</loc>
-    <lastmod>2017-01-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://seanschoi.com/authors/muhammad-shahbaz/</loc>
-    <lastmod>2017-01-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://seanschoi.com/tags/p4/</loc>
     <lastmod>2017-01-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
