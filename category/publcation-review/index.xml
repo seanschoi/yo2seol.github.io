@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Publcation Review | Homepage of Sean Choi</title>
+    <link>https://seanschoi.com/category/publcation-review/</link>
+      <atom:link href="https://seanschoi.com/category/publcation-review/index.xml" rel="self" type="application/rss+xml" />
+    <description>Publcation Review</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 27 Jul 2019 19:04:30 -0400</lastBuildDate>
+    <image>
+      <url>https://seanschoi.com/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Publcation Review</title>
+      <link>https://seanschoi.com/category/publcation-review/</link>
+    </image>
+    
+    <item>
+      <title>Incentivizing Censorship Measurements via Circumvention [SIGCOMM 2018]</title>
+      <link>https://seanschoi.com/post/circumvention-sigcomm2018/</link>
+      <pubDate>Sat, 27 Jul 2019 19:04:30 -0400</pubDate>
+      <guid>https://seanschoi.com/post/circumvention-sigcomm2018/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

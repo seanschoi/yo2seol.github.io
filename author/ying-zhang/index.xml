@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ying Zhang | Homepage of Sean Choi</title>
+    <link>https://seanschoi.com/author/ying-zhang/</link>
+      <atom:link href="https://seanschoi.com/author/ying-zhang/index.xml" rel="self" type="application/rss+xml" />
+    <description>Ying Zhang</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 23 Aug 2018 14:14:33 -0700</lastBuildDate>
+    <image>
+      <url>https://seanschoi.com/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Ying Zhang</title>
+      <link>https://seanschoi.com/author/ying-zhang/</link>
+    </image>
+    
+    <item>
+      <title>FBOSS: Building Switch Software at Scale</title>
+      <link>https://seanschoi.com/talk/fboss/</link>
+      <pubDate>Thu, 23 Aug 2018 14:14:33 -0700</pubDate>
+      <guid>https://seanschoi.com/talk/fboss/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>FBOSS: Building Switch Software at Scale</title>
+      <link>https://seanschoi.com/publication/choi-2018-fbs-3230543-3230546/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://seanschoi.com/publication/choi-2018-fbs-3230543-3230546/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -3,28 +3,19 @@
   <channel>
     <title>Homepage of Sean Choi</title>
     <link>https://seanschoi.com/</link>
-    <description>Recent content on Homepage of Sean Choi</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
-    <language>en-us</language>
-    <lastBuildDate>Mon, 19 Aug 2019 00:00:00 +0000</lastBuildDate>
-    
-	    <atom:link href="https://seanschoi.com/index.xml" rel="self" type="application/rss+xml" />
-    
-    
-    <item>
-      <title>Toward Scalable Replication Systems with Predictable Tails Using Programmable Data Planes (Best Paper Award)</title>
-      <link>https://seanschoi.com/publication/choi-2019-tsr-3343180-3343181/</link>
-      <pubDate>Mon, 19 Aug 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://seanschoi.com/publication/choi-2019-tsr-3343180-3343181/</guid>
-      <description></description>
-    </item>
+      <atom:link href="https://seanschoi.com/index.xml" rel="self" type="application/rss+xml" />
+    <description>Homepage of Sean Choi</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 27 Jul 2019 19:04:30 -0400</lastBuildDate>
+    <image>
+      <url>https://seanschoi.com/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Homepage of Sean Choi</title>
+      <link>https://seanschoi.com/</link>
+    </image>
     
     <item>
       <title>Incentivizing Censorship Measurements via Circumvention [SIGCOMM 2018]</title>
       <link>https://seanschoi.com/post/circumvention-sigcomm2018/</link>
       <pubDate>Sat, 27 Jul 2019 19:04:30 -0400</pubDate>
-      
       <guid>https://seanschoi.com/post/circumvention-sigcomm2018/</guid>
       <description></description>
     </item>
@@ -33,7 +24,6 @@
       <title>NanoLog: A Nanosecond Scale Logging System [ATC 2018]</title>
       <link>https://seanschoi.com/post/nanolog-atc2018/</link>
       <pubDate>Sat, 27 Jul 2019 19:03:40 -0400</pubDate>
-      
       <guid>https://seanschoi.com/post/nanolog-atc2018/</guid>
       <description></description>
     </item>
@@ -42,7 +32,6 @@
       <title>HyperLoop: NIC-Offloading for Faster Transactions in Storage Systems [SIGCOMM 2018]</title>
       <link>https://seanschoi.com/post/hyperloop-sigcomm2018/</link>
       <pubDate>Sat, 27 Jul 2019 19:02:49 -0400</pubDate>
-      
       <guid>https://seanschoi.com/post/hyperloop-sigcomm2018/</guid>
       <description></description>
     </item>
@@ -51,7 +40,6 @@
       <title>MUTE: Bringing IoT to Noise Cancellation [SIGCOMM 2018]</title>
       <link>https://seanschoi.com/post/mute-sigcomm2018/</link>
       <pubDate>Sat, 27 Jul 2019 19:01:14 -0400</pubDate>
-      
       <guid>https://seanschoi.com/post/mute-sigcomm2018/</guid>
       <description></description>
     </item>
@@ -60,7 +48,6 @@
       <title>What is MetaMask? Really… What is it?</title>
       <link>https://seanschoi.com/post/what-is-metamask/</link>
       <pubDate>Sat, 27 Jul 2019 18:52:40 -0400</pubDate>
-      
       <guid>https://seanschoi.com/post/what-is-metamask/</guid>
       <description></description>
     </item>
@@ -69,7 +56,6 @@
       <title>A Beginner’s Introduction to Raspberry Pi</title>
       <link>https://seanschoi.com/post/raspberry-pi-guide/</link>
       <pubDate>Sat, 27 Jul 2019 18:51:57 -0400</pubDate>
-      
       <guid>https://seanschoi.com/post/raspberry-pi-guide/</guid>
       <description></description>
     </item>
@@ -78,7 +64,6 @@
       <title>The Purposes of Starting Computer Science Literature Review on Medium</title>
       <link>https://seanschoi.com/post/starting-cs-review/</link>
       <pubDate>Sat, 27 Jul 2019 18:50:49 -0400</pubDate>
-      
       <guid>https://seanschoi.com/post/starting-cs-review/</guid>
       <description></description>
     </item>
@@ -87,7 +72,6 @@
       <title>How to help a Teenager launch an iOS App</title>
       <link>https://seanschoi.com/post/help-a-teenager-launch-ios/</link>
       <pubDate>Sat, 27 Jul 2019 18:49:40 -0400</pubDate>
-      
       <guid>https://seanschoi.com/post/help-a-teenager-launch-ios/</guid>
       <description></description>
     </item>
@@ -96,7 +80,6 @@
       <title>What you can learn from a 30-year-old’s first coding interview</title>
       <link>https://seanschoi.com/post/30-year-old-interview/</link>
       <pubDate>Sat, 27 Jul 2019 18:47:48 -0400</pubDate>
-      
       <guid>https://seanschoi.com/post/30-year-old-interview/</guid>
       <description></description>
     </item>
@@ -105,7 +88,6 @@
       <title>P4</title>
       <link>https://seanschoi.com/project/p4/</link>
       <pubDate>Thu, 04 Jul 2019 13:40:48 -0700</pubDate>
-      
       <guid>https://seanschoi.com/project/p4/</guid>
       <description></description>
     </item>
@@ -114,7 +96,6 @@
       <title>PISCES</title>
       <link>https://seanschoi.com/project/pisces/</link>
       <pubDate>Thu, 04 Jul 2019 13:39:54 -0700</pubDate>
-      
       <guid>https://seanschoi.com/project/pisces/</guid>
       <description></description>
     </item>
@@ -123,7 +104,6 @@
       <title>PVPP</title>
       <link>https://seanschoi.com/project/pvpp/</link>
       <pubDate>Thu, 04 Jul 2019 13:39:21 -0700</pubDate>
-      
       <guid>https://seanschoi.com/project/pvpp/</guid>
       <description></description>
     </item>
@@ -132,7 +112,6 @@
       <title>λ-NIC</title>
       <link>https://seanschoi.com/project/lambda-nic/</link>
       <pubDate>Thu, 04 Jul 2019 13:37:57 -0700</pubDate>
-      
       <guid>https://seanschoi.com/project/lambda-nic/</guid>
       <description></description>
     </item>
@@ -141,7 +120,6 @@
       <title>FBOSS</title>
       <link>https://seanschoi.com/project/fboss/</link>
       <pubDate>Thu, 04 Jul 2019 13:35:02 -0700</pubDate>
-      
       <guid>https://seanschoi.com/project/fboss/</guid>
       <description></description>
     </item>
@@ -150,7 +128,6 @@
       <title>How to Teach Programming to Teenagers</title>
       <link>https://seanschoi.com/post/how-to-teach-programming-to-teenagers/</link>
       <pubDate>Thu, 04 Jul 2019 13:35:02 -0700</pubDate>
-      
       <guid>https://seanschoi.com/post/how-to-teach-programming-to-teenagers/</guid>
       <description></description>
     </item>
@@ -159,7 +136,6 @@
       <title>Ph.D. Dissertation Defense</title>
       <link>https://seanschoi.com/talk/defense/</link>
       <pubDate>Mon, 17 Jun 2019 09:30:00 -0700</pubDate>
-      
       <guid>https://seanschoi.com/talk/defense/</guid>
       <description></description>
     </item>
@@ -168,8 +144,15 @@
       <title>Programmable Data Planes and &#39;Reflex Control&#39;</title>
       <link>https://seanschoi.com/talk/reflex_platform_lab/</link>
       <pubDate>Thu, 07 Feb 2019 14:16:09 -0700</pubDate>
-      
       <guid>https://seanschoi.com/talk/reflex_platform_lab/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Toward Scalable Replication Systems with Predictable Tails Using Programmable Data Planes</title>
+      <link>https://seanschoi.com/publication/choi-2019-tsr-3343180-3343181/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://seanschoi.com/publication/choi-2019-tsr-3343180-3343181/</guid>
       <description></description>
     </item>
     
@@ -177,7 +160,6 @@
       <title>FBOSS: Building Switch Software at Scale</title>
       <link>https://seanschoi.com/talk/fboss/</link>
       <pubDate>Thu, 23 Aug 2018 14:14:33 -0700</pubDate>
-      
       <guid>https://seanschoi.com/talk/fboss/</guid>
       <description></description>
     </item>
@@ -186,7 +168,6 @@
       <title>FBOSS: Building Switch Software at Scale</title>
       <link>https://seanschoi.com/publication/choi-2018-fbs-3230543-3230546/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-      
       <guid>https://seanschoi.com/publication/choi-2018-fbs-3230543-3230546/</guid>
       <description></description>
     </item>
@@ -195,7 +176,6 @@
       <title>Riley: Pushing networking to the edge</title>
       <link>https://seanschoi.com/talk/riley/</link>
       <pubDate>Fri, 17 Nov 2017 14:13:33 -0700</pubDate>
-      
       <guid>https://seanschoi.com/talk/riley/</guid>
       <description></description>
     </item>
@@ -204,7 +184,6 @@
       <title>PVPP: A Programmable Vector Packet Processor</title>
       <link>https://seanschoi.com/talk/pvpp_intel/</link>
       <pubDate>Mon, 26 Jun 2017 14:12:08 -0700</pubDate>
-      
       <guid>https://seanschoi.com/talk/pvpp_intel/</guid>
       <description></description>
     </item>
@@ -213,7 +192,6 @@
       <title>PVPP : A Programmable Vector Packet Processor</title>
       <link>https://seanschoi.com/talk/pvpp_cisco/</link>
       <pubDate>Thu, 18 May 2017 14:10:19 -0700</pubDate>
-      
       <guid>https://seanschoi.com/talk/pvpp_cisco/</guid>
       <description></description>
     </item>
@@ -222,7 +200,6 @@
       <title>AppSwitch: Application-layer Load Balancing Within a Software Switch</title>
       <link>https://seanschoi.com/publication/cidon-2017-aal-3106989-3106998/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
-      
       <guid>https://seanschoi.com/publication/cidon-2017-aal-3106989-3106998/</guid>
       <description></description>
     </item>
@@ -231,7 +208,6 @@
       <title>The Case for a Flexible Low-Level Backend for Software Data Planes</title>
       <link>https://seanschoi.com/publication/choi-2017-cfl-3106989-3107000/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
-      
       <guid>https://seanschoi.com/publication/choi-2017-cfl-3106989-3107000/</guid>
       <description></description>
     </item>
@@ -240,7 +216,6 @@
       <title>PISCES - A Programmable Independent Software Switch</title>
       <link>https://seanschoi.com/talk/pisces/</link>
       <pubDate>Thu, 25 Aug 2016 14:05:49 -0700</pubDate>
-      
       <guid>https://seanschoi.com/talk/pisces/</guid>
       <description></description>
     </item>
@@ -249,7 +224,6 @@
       <title>History of SDN and PISCES - A Programmable Independent Software Switch</title>
       <link>https://seanschoi.com/talk/history_of_sdn/</link>
       <pubDate>Thu, 09 Jun 2016 14:01:21 -0700</pubDate>
-      
       <guid>https://seanschoi.com/talk/history_of_sdn/</guid>
       <description></description>
     </item>
@@ -258,7 +232,6 @@
       <title>PISCES - A Programmable Independent Software Switch</title>
       <link>https://seanschoi.com/talk/nfv_day/</link>
       <pubDate>Wed, 25 May 2016 14:07:41 -0700</pubDate>
-      
       <guid>https://seanschoi.com/talk/nfv_day/</guid>
       <description></description>
     </item>
@@ -267,7 +240,6 @@
       <title>PISCES: A Programmable, Protocol-Independent Software Switch</title>
       <link>https://seanschoi.com/publication/shahbaz-2016-ppp-2934872-2934886/</link>
       <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
-      
       <guid>https://seanschoi.com/publication/shahbaz-2016-ppp-2934872-2934886/</guid>
       <description></description>
     </item>
@@ -276,7 +248,6 @@
       <title>Interactive Cloud Experimentation for Biology: An Online Education Case Study</title>
       <link>https://seanschoi.com/publication/hossain-2015-ice-2702123-2702354/</link>
       <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
-      
       <guid>https://seanschoi.com/publication/hossain-2015-ice-2702123-2702354/</guid>
       <description></description>
     </item>
@@ -285,7 +256,6 @@
       <title>Integrated bioprinting and imaging for scalable, networkable desktop experimentation</title>
       <link>https://seanschoi.com/publication/c-4-ra-05932-h/</link>
       <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
-      
       <guid>https://seanschoi.com/publication/c-4-ra-05932-h/</guid>
       <description></description>
     </item>
@@ -294,7 +264,6 @@
       <title>The browsemaps: Collaborative filtering at LinkedIn</title>
       <link>https://seanschoi.com/publication/browsemap/</link>
       <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
-      
       <guid>https://seanschoi.com/publication/browsemap/</guid>
       <description></description>
     </item>
@@ -303,7 +272,6 @@
       <title>Social Data and College Statistics</title>
       <link>https://seanschoi.com/publication/social-data/</link>
       <pubDate>Sat, 01 Sep 2012 00:00:00 +0000</pubDate>
-      
       <guid>https://seanschoi.com/publication/social-data/</guid>
       <description></description>
     </item>

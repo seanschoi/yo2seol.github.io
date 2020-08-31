@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ingmar H. Riedel-Kruse | Homepage of Sean Choi</title>
+    <link>https://seanschoi.com/author/ingmar-h.-riedel-kruse/</link>
+      <atom:link href="https://seanschoi.com/author/ingmar-h.-riedel-kruse/index.xml" rel="self" type="application/rss+xml" />
+    <description>Ingmar H. Riedel-Kruse</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 01 Jan 2015 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://seanschoi.com/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Ingmar H. Riedel-Kruse</title>
+      <link>https://seanschoi.com/author/ingmar-h.-riedel-kruse/</link>
+    </image>
+    
+    <item>
+      <title>Interactive Cloud Experimentation for Biology: An Online Education Case Study</title>
+      <link>https://seanschoi.com/publication/hossain-2015-ice-2702123-2702354/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>https://seanschoi.com/publication/hossain-2015-ice-2702123-2702354/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Integrated bioprinting and imaging for scalable, networkable desktop experimentation</title>
+      <link>https://seanschoi.com/publication/c-4-ra-05932-h/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>https://seanschoi.com/publication/c-4-ra-05932-h/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
